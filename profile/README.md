@@ -2,30 +2,32 @@
 
 目标：提供更简单易用的网络存储方案
 
-## 官网
+## 找到我们
 
-https://www.linkease.com
+* [官网](https://www.linkease.com)
+* [酷友社 B 站账号](https://space.bilibili.com/1492058311?spm_id_from=333.788.0.0)
+* [酷友社 Youtube](https://www.youtube.com/channel/UCvENMyIFurJi_SrnbnbyiZw)
+* [QQ 群](https://www.koolcenter.com/posts/117)
+* [TG 群](https://t.me/+QwxW7aimSMeRdQJX)
 
-## 提供的产品
+## 提供的软件产品
 
-### iStoreOS
+### [iStoreOS](https://github.com/linkease/istoreos)
 
-基于 OpenWRT 一个可用于路由或者网络存储场景的操作系统。
+基于 OpenWRT 一个可用于路由或者网络存储场景的操作系统。给入门用户一个更简单易用的固件。
 
-### 易有云
+### [iStore](https://github.com/linkease/istore)
 
-提供整套私有化的网络存储服务。客户端支持 iOS、Android、macOS、Windows，服务器端支持 iStoreOS、Merlin、群晖、QNAP、Windows、macOS、Linux 。
+一个更现代化的软件中心实现，方便 iStoreOS 安装更多的软件
 
-功能：
+### [易有云](https://app.linkease.com/)
 
-* 远程应用（远程路由，远程下载等）
-* 相册备份
-* 设备互联
-* 文件多端同步
+提供整套私有化的网络存储服务，用户可以轻松达成各种专业级别功能。客户端支持 iOS、Android、macOS、Windows，服务器端支持 iStoreOS、Merlin、群晖、QNAP、Windows、macOS、Linux 。
 
-特性：
+### [DDNSTO](https://www.ddnsto.com)
 
-* 提供点对点的文件传输
-* 提供增量文件传输
-* 提供流媒体播放
-* 传输速度极快
+提供基于浏览器的便捷远程域名访问，远程电脑，远程文件管理等
+
+## 提供的硬件解决方案
+
+[EasePi](https://item.taobao.com/item.htm?ft=t&id=655381846734)，一个即可能当路由，也可以作为轻存储的一体化硬件。
