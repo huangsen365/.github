@@ -10,6 +10,8 @@
 * [QQ 群](https://www.koolcenter.com/posts/117)
 * [TG 群](https://t.me/+QwxW7aimSMeRdQJX)
 
+VIP 用户请加入相关 VIP 群咨询。
+
 ## 提供的软件产品
 
 ### [iStoreOS](https://github.com/linkease/istoreos)
