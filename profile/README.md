@@ -32,4 +32,4 @@ VIP 用户请加入相关 VIP 群咨询。
 
 ## 提供的硬件解决方案
 
-[EasePi](https://item.taobao.com/item.htm?ft=t&id=655381846734)，一个即可能当路由，也可以作为轻存储的一体化硬件。
+[EasePi](https://item.taobao.com/item.htm?ft=t&id=655381846734)，一个可以作为路由，也可以作为轻存储的一体化硬件。
