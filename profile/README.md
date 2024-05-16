@@ -14,7 +14,7 @@ VIP 用户请加入相关 VIP 群咨询。
 
 ## 提供的软件产品
 
-### [iStoreOS](https://github.com/linkease/istoreos)
+### [iStoreOS](https://github.com/istoreos/istoreos)
 
 基于 OpenWRT 一个可用于路由或者网络存储场景的操作系统。给入门用户一个更简单易用的固件。
 
